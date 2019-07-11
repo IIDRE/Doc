@@ -1,16 +1,16 @@
 # Doc
 
-You can find all iidre's products documention
+You can find all IIDRE's products documentation:
 
-## User guide
+## User guide:
 
-All command to config UWB devices
+All the commands to configure UWB devices.
 
-## Supervisor manuel
+## Supervisor manual:
 
-To use UWBsupervisor user guide
+To use UWBsupervisor.
 
-## Quick start 
+## Getting started:
 
-to quickely install UWB infrastructure
+To install the UWB infrastructure quickly.
 
